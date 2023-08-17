@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "hi every"
+echo "hi every1"
