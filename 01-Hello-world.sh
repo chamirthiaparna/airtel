@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello World India asd"
+echo "hi every one"
